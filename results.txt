@@ -3,3 +3,12 @@ Date of Test: 2024-11-07 14:06:11
 Bubble Sort Time: 7.120723 seconds
 Quick Sort Time: 0.021085 seconds
 
+Computer Name: HPBexter
+Date of Test: 2024-11-07 14:06:05
+Bubble Sort Time: 6.965712 seconds
+Quick Sort Time: 0.016854 seconds
+
+Computer Name: DESKTOP-NSFIQ0F
+Date of Test: 2024-11-07 14:06:16
+Bubble Sort Time: 4.971943 seconds
+Quick Sort Time: 0.015025 seconds
